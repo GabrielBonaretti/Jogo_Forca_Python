@@ -1,2 +1,2 @@
 # jogo_forca_python
-I'm learning python, so this don't is a complex game. It's just to practice.
+Eu estou aprendendo python, então não é um jogo complexo. É apenas para praticar.
