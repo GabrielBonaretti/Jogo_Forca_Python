@@ -251,7 +251,7 @@ def escrever_csv():
     :return: Arquivo ".csv" atualizado
     '''
     lista = open("lista.csv", "a", newline="")
-    tup = [input("Digite a palavra: "), input("Digite a dica:")]
+    tup = [input("Digite a palavra: "), input("Digite a dica: ")]
     writer = csv.writer(lista)
     writer.writerow(tup)
     lista.close()
